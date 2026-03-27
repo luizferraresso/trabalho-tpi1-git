@@ -16,6 +16,7 @@ public class Calculadora {
     }
 
     // Método principal para testar
+	// Executa os testes das operações
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
 
